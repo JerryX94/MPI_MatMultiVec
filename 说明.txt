@@ -1,0 +1,13 @@
+文件夹包含4个文件，分别为：
+
+1.矩阵向量相乘c++程序源文件 MPI_MatMultiVec.cpp；
+2.矩阵向量相乘程序可执行文件 MPI_MatMultiVec.exe；
+3.一个样例输入 Input.dat；
+4.一个样例输出 Output.dat；
+
+本程序在 Microsoft MPI (8.0.12438.0) 下测试运行通过，可以实现多核并行。
+
+
+
+硕6020 谢家昱
+2017.06.12
